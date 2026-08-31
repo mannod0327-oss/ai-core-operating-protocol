@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+dist/
+release/
+.release-marketplace/
+.venv/
+.test-output/
+*.tmp
+*.lock
+.test-*/

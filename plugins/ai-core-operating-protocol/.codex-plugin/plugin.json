@@ -1,0 +1,23 @@
+{
+  "name": "ai-core-operating-protocol",
+  "version": "2.0.0-rc2",
+  "description": "Select relevant available skills and verify task outcomes.",
+  "author": {
+    "name": "Mr X"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Core Operating Protocol",
+    "shortDescription": "Route relevant skills and verify outcomes",
+    "longDescription": "Task-scoped capability routing with progressive disclosure and evidence-based completion.",
+    "developerName": "Mr X",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Choose relevant capabilities and verify my task outcome."
+    ]
+  }
+}

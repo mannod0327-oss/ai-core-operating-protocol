@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "repo-bug-01",
+    "request": "GitHubdagi loyihamdagi bugni tuzat",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-02",
+    "request": "repo failing testni tuzat",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-03",
+    "request": "Python reposidagi xatoni debug qil",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-04",
+    "request": "GitHub PR dagi test failure ni tuzat",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-05",
+    "request": "kod bazadagi regressionni top",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-06",
+    "request": "repositoryda build xatosini tuzat",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-07",
+    "request": "GitHub project errorini fix qil",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-08",
+    "request": "repo ichida crash sababini top",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-09",
+    "request": "testlar yiqilyapti kodni tuzat",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "repo-bug-10",
+    "request": "source code bugini topib fix qil",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "must_not_include": [
+      "gmail",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "email-01",
+    "request": "Inboximdagi muhim xatlarni ko'rsat",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-02",
+    "request": "Gmaildagi bugungi xatlarni top",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-03",
+    "request": "emailimdan shartnoma xatini qidir",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-04",
+    "request": "pochta qutimdagi yangi xabarlarni chiqar",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-05",
+    "request": "Gmaildan oxirgi invoice xatini top",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-06",
+    "request": "inboxdagi rahbar xatini top",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-07",
+    "request": "emaildagi meeting xabarini top",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-08",
+    "request": "Gmailimdagi unread xatlarni ko'rsat",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-09",
+    "request": "pochta qutimdan loyiha xatini qidir",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "email-10",
+    "request": "emailimdagi bugungi muhim xabarlarni ayt",
+    "must_include": [
+      "gmail"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "web-01",
+    "request": "Bugungi OpenAI yangiliklarini tekshir",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-02",
+    "request": "internetdan eng yangi AI yangiliklarini top",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-03",
+    "request": "hozirgi dollar kursi haqida webdan tekshir",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-04",
+    "request": "so'nggi Anthropic yangiliklarini qidir",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-05",
+    "request": "bugungi texnologiya xabarlarini research qil",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-06",
+    "request": "current Gemini CLI docsni top",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-07",
+    "request": "internetdagi yangi qonun o'zgarishini tekshir",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-08",
+    "request": "latest release notesni qidir",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-09",
+    "request": "webdan bugungi yangiliklarni solishtir",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "web-10",
+    "request": "hozirgi product narxini internetdan tekshir",
+    "must_include": [
+      "web-research"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "pdf-01",
+    "request": "PDF faylni tahlil qil",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-02",
+    "request": "shu PDFdan ma'lumot chiqar",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-03",
+    "request": "PDFdagi jadvalni o'qi",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-04",
+    "request": "PDFni tekshirib xulosa ber",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-05",
+    "request": "PDF hujjatni analiz qil",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-06",
+    "request": "PDFdan Wordga mazmun tayyorla",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-07",
+    "request": "PDF ichidagi raqamlarni tekshir",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-08",
+    "request": "PDFdagi sahifalarni ko'rib chiq",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-09",
+    "request": "PDF reportni summary qil",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "pdf-10",
+    "request": "PDF hujjatdan faktlarni chiqar",
+    "must_include": [
+      "pdf-processing",
+      "file-source"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-01",
+    "request": "Word hujjat tayyorla",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-02",
+    "request": "bildirgi yozib docx qil",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-03",
+    "request": "rasmiy xat tayyorla",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-04",
+    "request": "hisobot hujjati yoz",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-05",
+    "request": "document yarat",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-06",
+    "request": "Word formatda ma'lumot tayyorla",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-07",
+    "request": "docx hisobot qil",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-08",
+    "request": "rasmiy bayonnoma matnini tayyorla",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-09",
+    "request": "hujjatni professional yoz",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "document-10",
+    "request": "memo tayyorla",
+    "must_include": [
+      "document-authoring"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "calendar-01",
+    "request": "Kalendardagi ertangi uchrashuvlarni ko'rsat",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-02",
+    "request": "Google Calendarimdan bugungi meetinglarni top",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-03",
+    "request": "kalendardan bo'sh vaqtimni tekshir",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-04",
+    "request": "meeting schedule ni ko'rsat",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-05",
+    "request": "ertangi eventlarni top",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-06",
+    "request": "calendarimdagi keyingi uchrashuvni top",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-07",
+    "request": "haftalik meetinglarni chiqar",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-08",
+    "request": "kalendarda payshanba nima bor",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-09",
+    "request": "bugungi agenda ni calendar dan ol",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar-10",
+    "request": "uchrashuv vaqtini tekshir",
+    "must_include": [
+      "calendar"
+    ],
+    "must_not_include": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "spreadsheet-01",
+    "request": "Excel faylni tahlil qil",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-02",
+    "request": "xlsx jadvaldagi totalsni tekshir",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-03",
+    "request": "spreadsheetdan hisobot chiqar",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-04",
+    "request": "Excel formulalarni tekshir",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-05",
+    "request": "xlsx data ni analiz qil",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-06",
+    "request": "jadvalni hisoblab ber",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-07",
+    "request": "Excel workbookni tekshir",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-08",
+    "request": "spreadsheetni tozalab tahlil qil",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-09",
+    "request": "xlsxdan summary chiqar",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "spreadsheet-10",
+    "request": "Excelda pivot tayyorlash kerak",
+    "must_include": [
+      "spreadsheet-analysis",
+      "file-source"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-01",
+    "request": "PowerPoint prezentatsiya tayyorla",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-02",
+    "request": "pptx deck yarat",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-03",
+    "request": "slaydlar tayyorla",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-04",
+    "request": "presentation qil",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-05",
+    "request": "pitch deck tayyorla",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-06",
+    "request": "PowerPoint hisobot yarat",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-07",
+    "request": "10 slaydlik taqdimot qil",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-08",
+    "request": "pptx prezentatsiya yoz",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-09",
+    "request": "slayd deck ishlab chiq",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "slides-10",
+    "request": "taqdimotni pptx qil",
+    "must_include": [
+      "slide-authoring"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "image-01",
+    "request": "rasm yarat",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-02",
+    "request": "logo chiz",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-03",
+    "request": "profil uchun image tayyorla",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-04",
+    "request": "poster rasmi yarat",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-05",
+    "request": "illustration qil",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-06",
+    "request": "diagrammani rasm qilib yarat",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-07",
+    "request": "avatar image tayyorla",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-08",
+    "request": "cover rasm yarat",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-09",
+    "request": "infografika rasmini yarat",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "image-10",
+    "request": "vizual rasm generatsiya qil",
+    "must_include": [
+      "image-generation"
+    ],
+    "must_not_include": [
+      "github-repository"
+    ]
+  },
+  {
+    "id": "video-01",
+    "request": "video tayyorla",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-02",
+    "request": "reels video yarat",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-03",
+    "request": "shorts video qil",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-04",
+    "request": "video montage tayyorla",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-05",
+    "request": "AI video yarat",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-06",
+    "request": "promo video qil",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-07",
+    "request": "video scriptdan roliki yarat",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-08",
+    "request": "Instagram reels generatsiya qil",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-09",
+    "request": "video kontent tayyorla",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "video-10",
+    "request": "explainer video yarat",
+    "must_include": [
+      "video-generation"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "current-weather-01",
+    "request": "Toshkentda bugun ob-havo qanday",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-02",
+    "request": "Samarqandda ertaga havo qanday",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-03",
+    "request": "hozirgi weather ni ayt",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-04",
+    "request": "bugungi ob-havoni tekshir",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-05",
+    "request": "ertangi yomg'ir bo'ladimi",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-06",
+    "request": "haftalik weather forecast",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-07",
+    "request": "havo haroratini tekshir",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-08",
+    "request": "bugun shamol kuchlimi",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-09",
+    "request": "ertaga ob-havo prognozi",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "current-weather-10",
+    "request": "current weather ni ko'rsat",
+    "must_include": [
+      "weather-live"
+    ],
+    "must_not_include": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "research-01",
+    "request": "shu mavzuni chuqur research qil",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-02",
+    "request": "manbalar bilan tahlil qil",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-03",
+    "request": "bir nechta source ni solishtir",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-04",
+    "request": "ilmiy tadqiqot qilib ber",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-05",
+    "request": "evidence bilan research qil",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-06",
+    "request": "mavzuni keng qamrovli o'rgan",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-07",
+    "request": "source based analysis qil",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-08",
+    "request": "chuqur tahlil va manbalar top",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-09",
+    "request": "research report tayyorla",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "research-10",
+    "request": "dalillar bilan mavzuni tekshir",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "must_not_include": [
+      "calendar"
+    ]
+  }
+]

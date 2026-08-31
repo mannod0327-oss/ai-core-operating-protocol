@@ -1,0 +1,228 @@
+[
+  {
+    "id": "systematic-debugging",
+    "layer": "process",
+    "description": "Use for bugs, failing tests, crashes, regressions, and unknown code failures.",
+    "keywords": [
+      "bug",
+      "debug",
+      "xato",
+      "error",
+      "failing",
+      "failure",
+      "crash",
+      "regression",
+      "testlar yiq",
+      "fix",
+      "tuzat"
+    ]
+  },
+  {
+    "id": "research-process",
+    "layer": "process",
+    "description": "Use for deep research, evidence synthesis, source comparison, and comprehensive analysis.",
+    "keywords": [
+      "research",
+      "tadqiqot",
+      "manbalar",
+      "source based",
+      "evidence",
+      "dalillar",
+      "chuqur",
+      "keng qamrovli",
+      "source"
+    ]
+  },
+  {
+    "id": "pdf-processing",
+    "layer": "domain",
+    "description": "Use for PDF reading, extraction, analysis, forms, or PDF transformations.",
+    "keywords": [
+      "pdf"
+    ]
+  },
+  {
+    "id": "document-authoring",
+    "layer": "domain",
+    "description": "Use for Word/docx, formal letters, reports, memos, and document creation.",
+    "keywords": [
+      "word",
+      "docx",
+      "hujjat",
+      "bildirgi",
+      "rasmiy xat",
+      "hisobot hujjat",
+      "memo",
+      "bayonnoma",
+      "document"
+    ]
+  },
+  {
+    "id": "spreadsheet-analysis",
+    "layer": "domain",
+    "description": "Use for Excel/xlsx/spreadsheet analysis, formulas, pivots, and tabular calculations.",
+    "keywords": [
+      "excel",
+      "xlsx",
+      "spreadsheet",
+      "workbook",
+      "pivot",
+      "jadval"
+    ]
+  },
+  {
+    "id": "slide-authoring",
+    "layer": "domain",
+    "description": "Use for PowerPoint/pptx presentations, slide decks, and pitch decks.",
+    "keywords": [
+      "powerpoint",
+      "pptx",
+      "slayd",
+      "presentation",
+      "taqdimot",
+      "pitch deck",
+      "deck"
+    ]
+  },
+  {
+    "id": "image-generation",
+    "layer": "domain",
+    "description": "Use when creating or generating images, logos, posters, avatars, illustrations, or infographics.",
+    "keywords": [
+      "rasm",
+      "image",
+      "logo",
+      "poster",
+      "avatar",
+      "illustration",
+      "infografika",
+      "vizual"
+    ]
+  },
+  {
+    "id": "video-generation",
+    "layer": "domain",
+    "description": "Use when creating video, reels, shorts, montage, promos, or explainers.",
+    "keywords": [
+      "video",
+      "reels",
+      "shorts",
+      "montage",
+      "rolik",
+      "promo",
+      "explainer"
+    ]
+  },
+  {
+    "id": "gmail",
+    "layer": "source",
+    "description": "Use for private email, Gmail, inbox, and mailbox content.",
+    "keywords": [
+      "gmail",
+      "email",
+      "inbox",
+      "pochta"
+    ]
+  },
+  {
+    "id": "calendar",
+    "layer": "source",
+    "description": "Use for private calendar events, meetings, schedules, and availability.",
+    "keywords": [
+      "calendar",
+      "kalendar",
+      "meeting",
+      "event",
+      "agenda",
+      "uchrashuv",
+      "bo'sh vaqt"
+    ]
+  },
+  {
+    "id": "github-repository",
+    "layer": "source",
+    "description": "Use for repositories, GitHub, source code, codebase state, commits, PRs, and tests.",
+    "keywords": [
+      "github",
+      "repo",
+      "repository",
+      "codebase",
+      "source code",
+      "kod baz",
+      "kodni",
+      "project error",
+      "loyiha",
+      "reposi"
+    ]
+  },
+  {
+    "id": "file-source",
+    "layer": "source",
+    "description": "Use for user-provided files and local document/spreadsheet/PDF content.",
+    "keywords": [
+      "pdf",
+      "excel",
+      "xlsx",
+      "fayl",
+      "file",
+      "workbook"
+    ]
+  },
+  {
+    "id": "weather-live",
+    "layer": "source",
+    "description": "Use for live weather conditions and forecasts.",
+    "keywords": [
+      "weather",
+      "ob-havo",
+      "havo",
+      "yomg'ir",
+      "shamol",
+      "harorat",
+      "forecast",
+      "prognoz"
+    ]
+  },
+  {
+    "id": "web-research",
+    "layer": "source",
+    "description": "Use for current public web facts, latest releases, news, prices, and open-web research.",
+    "keywords": [
+      "bugungi",
+      "latest",
+      "current",
+      "hozirgi",
+      "internet",
+      "web",
+      "yangilik",
+      "release",
+      "product narx",
+      "research",
+      "manbalar",
+      "source",
+      "tadqiqot",
+      "evidence",
+      "dalillar",
+      "keng qamrovli"
+    ]
+  },
+  {
+    "id": "code-verification",
+    "layer": "verifier",
+    "description": "Use after code changes to verify tests/build/runtime evidence before completion claims.",
+    "keywords": [
+      "bug",
+      "debug",
+      "xato",
+      "error",
+      "failing",
+      "failure",
+      "crash",
+      "regression",
+      "test",
+      "fix",
+      "tuzat",
+      "kod"
+    ]
+  }
+]

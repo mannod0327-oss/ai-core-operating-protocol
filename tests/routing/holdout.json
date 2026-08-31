@@ -1,0 +1,225 @@
+[
+  {
+    "id": "greeting",
+    "request": "Salom",
+    "must_include": [],
+    "allowed": []
+  },
+  {
+    "id": "thanks",
+    "request": "Rahmat",
+    "must_include": [],
+    "allowed": []
+  },
+  {
+    "id": "arithmetic",
+    "request": "2 + 2 nechchi?",
+    "must_include": [],
+    "allowed": []
+  },
+  {
+    "id": "stable",
+    "request": "Olma so‘zini inglizchaga tarjima qil",
+    "must_include": [],
+    "allowed": []
+  },
+  {
+    "id": "today-email",
+    "request": "Bugungi Gmail xatlarimni ko‘rsat",
+    "must_include": [
+      "gmail"
+    ],
+    "allowed": [
+      "gmail"
+    ]
+  },
+  {
+    "id": "today-public",
+    "request": "Bugungi yangiliklar",
+    "must_include": [
+      "web-research"
+    ],
+    "allowed": [
+      "web-research"
+    ]
+  },
+  {
+    "id": "formal-letter",
+    "request": "Rasmiy xat yoz",
+    "must_include": [
+      "document-authoring"
+    ],
+    "allowed": [
+      "document-authoring"
+    ]
+  },
+  {
+    "id": "mixed-doc",
+    "request": "PDF faylni Word hujjatga aylantir",
+    "must_include": [
+      "pdf-processing",
+      "document-authoring",
+      "file-source"
+    ],
+    "allowed": [
+      "pdf-processing",
+      "document-authoring",
+      "file-source"
+    ]
+  },
+  {
+    "id": "mixed-private",
+    "request": "Gmail va kalendardagi ma’lumotlarni solishtir",
+    "must_include": [
+      "gmail",
+      "calendar"
+    ],
+    "allowed": [
+      "gmail",
+      "calendar"
+    ]
+  },
+  {
+    "id": "private-public",
+    "request": "Gmail va internetdan dalillar top",
+    "must_include": [
+      "gmail",
+      "web-research"
+    ],
+    "allowed": [
+      "gmail",
+      "web-research",
+      "research-process"
+    ]
+  },
+  {
+    "id": "email-pdf",
+    "request": "Gmail dagi PDF faylni o‘qi",
+    "must_include": [
+      "gmail",
+      "file-source",
+      "pdf-processing"
+    ],
+    "allowed": [
+      "gmail",
+      "file-source",
+      "pdf-processing"
+    ]
+  },
+  {
+    "id": "data-slides",
+    "request": "Excel jadvaldan slayd tayyorla",
+    "must_include": [
+      "spreadsheet-analysis",
+      "slide-authoring",
+      "file-source"
+    ],
+    "allowed": [
+      "spreadsheet-analysis",
+      "slide-authoring",
+      "file-source"
+    ]
+  },
+  {
+    "id": "weather",
+    "request": "Ertaga ob-havo qanday?",
+    "must_include": [
+      "weather-live"
+    ],
+    "allowed": [
+      "weather-live"
+    ]
+  },
+  {
+    "id": "weather-unicode",
+    "request": "Bugun yomg‘ir yog‘adimi?",
+    "must_include": [
+      "weather-live"
+    ],
+    "allowed": [
+      "weather-live"
+    ]
+  },
+  {
+    "id": "code-bug",
+    "request": "GitHub bug fix",
+    "must_include": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ],
+    "allowed": [
+      "systematic-debugging",
+      "github-repository",
+      "code-verification"
+    ]
+  },
+  {
+    "id": "logo",
+    "request": "Logo yarat",
+    "must_include": [
+      "image-generation"
+    ],
+    "allowed": [
+      "image-generation"
+    ]
+  },
+  {
+    "id": "video",
+    "request": "Video tayyorla",
+    "must_include": [
+      "video-generation"
+    ],
+    "allowed": [
+      "video-generation"
+    ]
+  },
+  {
+    "id": "docx",
+    "request": "DOCX memo yoz",
+    "must_include": [
+      "document-authoring"
+    ],
+    "allowed": [
+      "document-authoring"
+    ]
+  },
+  {
+    "id": "research",
+    "request": "Public web research",
+    "must_include": [
+      "research-process",
+      "web-research"
+    ],
+    "allowed": [
+      "research-process",
+      "web-research"
+    ]
+  },
+  {
+    "id": "calendar",
+    "request": "Kalendarni ko‘rsat",
+    "must_include": [
+      "calendar"
+    ],
+    "allowed": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "file",
+    "request": "Faylni o‘qi",
+    "must_include": [
+      "file-source"
+    ],
+    "allowed": [
+      "file-source"
+    ]
+  },
+  {
+    "id": "negated-action",
+    "request": "Faqat tushuntir, production bazani o‘chirma",
+    "must_include": [],
+    "allowed": []
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "ai-core-marketplace",
+  "owner": {
+    "name": "Mr X"
+  },
+  "description": "Cross-agent operating skills for automatic capability routing and verified execution.",
+  "plugins": [
+    {
+      "name": "ai-core-operating-protocol",
+      "source": "./plugins/ai-core-operating-protocol",
+      "description": "Automatic metadata-first capability routing and verification.",
+      "version": "2.0.0-rc2",
+      "author": {
+        "name": "Mr X"
+      }
+    }
+  ]
+}

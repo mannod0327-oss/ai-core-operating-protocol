@@ -1,0 +1,9 @@
+{
+  "name": "ai-core-operating-protocol",
+  "version": "2.0.0-rc2",
+  "description": "Select relevant available skills and verify task outcomes.",
+  "author": {
+    "name": "Mr X"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI Core Operating Protocol"
+  short_description: "Route relevant skills and verify task outcomes"
+policy:
+  allow_implicit_invocation: true
