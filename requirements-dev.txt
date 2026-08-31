@@ -1,5 +1,5 @@
 pytest==8.4.2
-PyYAML==6.0.2
+PyYAML==6.0.3
 colorama==0.4.6; sys_platform == "win32"
 iniconfig==2.3.0
 packaging==26.3
